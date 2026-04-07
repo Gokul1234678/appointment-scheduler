@@ -55,3 +55,26 @@ All appointment data is stored in the browser using localStorage.
 ---
 
 ## 📂 Project Structure
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Download or clone the repository
+2. Open `index.html` in your browser
+
+---
+
+## 🎯 Objective
+
+This project was built as part of a technical assessment to demonstrate:
+- Frontend development skills
+- DOM manipulation
+- State management using localStorage
+- Responsive UI design
+
+---
+
+## 👤 Author
+
+Gokul Selvan
