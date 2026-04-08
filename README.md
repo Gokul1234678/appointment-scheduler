@@ -1,80 +1,116 @@
 # 🏥 Appointment Scheduler
 
-A responsive Appointment Scheduling web application built using HTML, CSS, and JavaScript.
+A responsive Appointment Scheduling web application built using **HTML, CSS, and JavaScript**.
+This application allows users to book, manage, and view appointments in a calendar and dashboard interface.
 
 ---
 
 ## 🚀 Live Demo
-https://your-vercel-link.vercel.app
+
+🔗 https://appointment-scheduler-swart.vercel.app/
+
+---
+
+## 📸 Screenshots
+
+### 📅 Calendar View
+
+![Calendar View](calendar.png)
+
+### 📝 Book Appointment Modal
+
+![Booking Modal](model.PNG)
+
+### 📊 Dashboard View
+
+![Dashboard](dashboard.PNG)
 
 ---
 
 ## 📌 Features
 
-- 📅 Calendar View
-  - Monthly calendar layout
-  - Displays appointments by date
+### 📅 Calendar View
 
-- 📝 Book Appointment
-  - Add patient, doctor, hospital, specialty
-  - Select date and time
-  - Add reason
+* Monthly calendar layout
+* Displays appointments on selected dates
+* Highlights current day
 
-- ✏️ Edit Appointment
-  - Update existing appointment details
+### 📝 Book Appointment
 
-- 🗑️ Delete Appointment
-  - Remove appointments instantly
+* Add patient name, doctor name, hospital, specialty
+* Select date and time
+* Add reason for visit
 
-- 🔍 Search & Filter
-  - Filter by patient name
-  - Filter by doctor name
-  - Filter by date range
+### ✏️ Edit Appointment
 
-- 📊 Dashboard
-  - Table view of all appointments
+* Modify existing appointment details
 
-- 📱 Fully Responsive
-  - Mobile, Tablet, Desktop supported
+### 🗑️ Delete Appointment
+
+* Remove appointments instantly from calendar and dashboard
+
+### 📊 Dashboard
+
+* Displays all appointments in table format
+* Includes edit and delete actions
+
+### 🔍 Search & Filter
+
+* Search by patient name
+* Search by doctor name
+* Filter by date range
+
+### 📱 Responsive Design
+
+* Works on Mobile, Tablet, and Desktop
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- localStorage (for data persistence)
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
+* localStorage (for data persistence)
 
 ---
 
 ## 💾 Data Storage
 
-All appointment data is stored in the browser using localStorage.
+All appointment data is stored in the browser using **localStorage**.
+No backend or database is used.
 
 ---
 
 ## 📂 Project Structure
 
+```
+index.html
+calendar.png
+modal.png
+dashboard.png
+```
+
 ---
 
 ## ⚙️ How to Run Locally
 
-1. Download or clone the repository
+1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
 ## 🎯 Objective
 
-This project was built as part of a technical assessment to demonstrate:
-- Frontend development skills
-- DOM manipulation
-- State management using localStorage
-- Responsive UI design
+This project was developed as part of a technical assessment to demonstrate:
+
+* Frontend development skills
+* DOM manipulation
+* State management using localStorage
+* Responsive UI design
 
 ---
 
 ## 👤 Author
 
-Gokul Selvan
+**Gokul Selvan**
